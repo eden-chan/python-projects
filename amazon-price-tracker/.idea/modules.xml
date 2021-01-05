@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/amazon-price-tracker.iml" filepath="$PROJECT_DIR$/.idea/amazon-price-tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../movies/.idea/movies.iml" filepath="$PROJECT_DIR$/../movies/.idea/movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stonks2.0/.idea/stonks2.0.iml" filepath="$PROJECT_DIR$/../stonks2.0/.idea/stonks2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weather/.idea/weather.iml" filepath="$PROJECT_DIR$/../weather/.idea/weather.iml" />
+    </modules>
+  </component>
+</project>
